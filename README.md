@@ -19,4 +19,4 @@
  
 # المصادر
  - معهد تاريخ العلوم العربية الإسلامية في فرانكفورت في ألمانيا
-￼- [ملف الجزاري علي wikipedia](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%B2%D8%B1%D9%8A)
+ - [ملف الجزاري علي wikipedia](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%B2%D8%B1%D9%8A)
